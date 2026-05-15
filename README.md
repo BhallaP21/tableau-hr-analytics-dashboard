@@ -156,6 +156,7 @@ View Interactive Dashboard: https://public.tableau.com/app/profile/parth.bhalla/
 ```plaintext
 tableau-hr-analytics-dashboard/
 │
+├── assets/
 ├── dashboards/
 ├── dataset/
 ├── documents/
